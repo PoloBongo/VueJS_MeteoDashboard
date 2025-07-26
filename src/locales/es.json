@@ -1,0 +1,21 @@
+{
+  "title_page": "Bienvenido al panel del tiempo",
+  "WeatherChart": {
+    "title": "Pronóstico del tiempo de",
+    "days": " días",
+    "load_data": "Cargando datos meteorológicos para",
+    "temp_max": "Temperatura Máxima (°C)",
+    "temp_min": "Temperatura Mínima (°C)",
+    "forecast_days": "Número de días de pronóstico"
+  },
+  "Weather": {
+    "title": "Clima actual",
+    "load_data": "Cargando datos meteorológicos para",
+    "search_city": "Buscar una ciudad"
+  },
+  "Locale": {
+    "fr": "Francés",
+    "en": "Inglés",
+    "es": "Español"
+  }
+}

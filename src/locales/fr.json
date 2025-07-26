@@ -1,0 +1,21 @@
+{
+  "title_page": "Bienvenue sur le tableau de bord météo",
+  "WeatherChart": {
+    "title": "Prévision météo sur",
+    "days": " jours",
+    "load_data": "Chargement des données météo pour",
+    "temp_max": "Température Max (°C)",
+    "temp_min": "Température Min (°C)",
+    "forecast_days": "Nombre de jours de prévisions"
+  },
+  "Weather": {
+    "title": "Météo actuelle",
+    "load_data": "Chargement des données météo pour",
+    "search_city": "Rechercher une ville"
+  },
+  "Locale": {
+    "fr": "Français",
+    "en": "Anglais",
+    "es": "Espagnol"
+  }
+}

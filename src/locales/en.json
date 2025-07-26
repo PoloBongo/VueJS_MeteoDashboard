@@ -1,0 +1,21 @@
+{
+  "title_page": "Welcome to the weather dashboard",
+  "WeatherChart": {
+    "title": "Weather Forecast on",
+    "days": " days",
+    "load_data": "Loading weather data for",
+    "temp_max": "Max Temperature (°C)",
+    "temp_min": "Min Temperature (°C)",
+    "forecast_days": "Number of forecast days"
+  },
+  "Weather": {
+    "title": "Current Weather",
+    "load_data": "Loading weather data for",
+    "search_city": "Search for a city"
+  },
+  "Locale": {
+    "fr": "French",
+    "en": "English",
+    "es": "Spanish"
+  }
+}
